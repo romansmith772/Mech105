@@ -1,1 +1,1 @@
-
+function for integrating experimental data using Simpson’s 1/3 rule. The function checks if there are an odd number of intervals, if there are, the trapezoidal rule should be used for the last interval.
