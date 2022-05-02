@@ -12,7 +12,9 @@ This Function (written in MATLAB):
 *Slope from the linear regression (m in )
 *Intercept from the linear regression (b in )
 *Rsquared value
-#Background on linear regression 
+
+##Background on linear regression 
+
 linear regression is a linear approach for modelling the relationship between a scalar response and one or more explanatory variables.Linear regression has many practical uses. Most applications fall into one of the following two broad categories:
 
 * If the goal is prediction, forecasting, or error reduction,[clarification needed] linear regression can be used to fit a predictive model to an observed data set of values of the response and explanatory variables. After developing such a model, if additional values of the explanatory variables are collected without an accompanying response value, the fitted model can be used to make a prediction of the response.
